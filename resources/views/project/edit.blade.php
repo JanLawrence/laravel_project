@@ -4,7 +4,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-lg-12">
-                <h3>Edit Project</h3>
+                <h3>Update Project</h3>
                 <hr>
                 <form method="POST" id="updateProjectForm" action="/{{ $project->id }}">
                     {{ method_field('PATCH') }}
