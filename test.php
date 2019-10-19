@@ -1,5 +1,5 @@
 <?php
 
-#here is a code
+#here is a codes
 
 ?>
